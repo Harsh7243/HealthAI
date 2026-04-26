@@ -80,9 +80,3 @@ AI-powered nutrition planning tailored to your lifestyle and preferences.
 ## 🌐 **See It in Action**
 
 - **Website:** [HealthAI](https://health-ai-iota.vercel.app/)   
-
----
-
-## 📜 **License**
-
-This project is licensed under the MIT License.
